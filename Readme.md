@@ -1,0 +1,3 @@
+# ViDemo application
+
+moderndesktopminimal template
